@@ -35,7 +35,7 @@ def test_home():
         expected_html = (
             "<!doctype html> <html> <head> <meta charset=\"UTF-8\"> "
             "<link rel=\"stylesheet\" href=\"/static/css/style.css\"> "
-            "<title>home</title> </head> <body> <h1>Welcome to flask!</h1> "
+            "<title>home</title> </head> <body> <h1>Welcome to flask</h1> "
             "</body> </html>"
         )
 
